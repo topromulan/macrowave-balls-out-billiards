@@ -4,20 +4,20 @@
 
 
 void SimpleVector::x(number n) {
-		longitudinal = n;
+		horizontal = n;
 };
 
 void SimpleVector::y(number n) {
-		latitudinal = n;
+		vertical = n;
 };
 
 
 number SimpleVector::x(void) {
-		return longitudinal;
+		return horizontal;
 };
 
 number SimpleVector::y(void) {
-		return latitudinal;
+		return vertical;
 };
 
 

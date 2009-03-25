@@ -6,8 +6,8 @@ class SimpleVector {
 
 	private: 
 
-	number longitudinal;
-	number latitudinal;
+	number horizontal;
+	number vertical;
 
 	public:
 
