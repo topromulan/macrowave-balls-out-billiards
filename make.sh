@@ -1,0 +1,2 @@
+
+g++ -c SimpleVector.cpp
