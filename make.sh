@@ -1,2 +1,2 @@
 
-g++ -c SimpleVector.cpp
+g++ -c SimpleVector.cpp SimpleCoordinate.cpp

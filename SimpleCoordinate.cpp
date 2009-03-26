@@ -12,12 +12,12 @@ void SimpleCoordinate::y(number n) {
 };
 
 
-number SimpleVector::x(void) {
+number SimpleCoordinate::x(void) {
 	return longitudinal;
 };
 
-number SimpleVector::y(void) {
+number SimpleCoordinate::y(void) {
 	return latitudinal;
-}
+};
 
 
