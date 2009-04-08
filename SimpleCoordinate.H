@@ -1,6 +1,6 @@
 
 
-typedef double number;
+#include "Number.H"
 
 
 class SimpleCoordinate {

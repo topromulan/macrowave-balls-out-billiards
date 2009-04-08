@@ -1,0 +1,3 @@
+
+typedef double number;
+
